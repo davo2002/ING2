@@ -60,8 +60,8 @@ $route['translate_uri_dashes'] = FALSE;
 
 
 //pagina que procede a la compra
-$route['checkout']='cliente/checkout';
-$route['pedido']='Pedido/procesarPedido';
+//$route['checkout']='cliente/checkout';
+//$route['pedido']='Pedido/procesarPedido';
 
 //pagina que procede a generar el Comprobante$route['generarComprobante']='factura/generarComprobante';
 
