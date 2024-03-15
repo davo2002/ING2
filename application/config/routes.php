@@ -78,7 +78,7 @@ $route['usuarios']='administrador/usuarios';
 
 
 // generar factura
-$route['factura']= 'factura/factura';
+//$route['factura']= 'factura/factura';
 $route['seginup']= 'login/seginup';
 
 
