@@ -15,12 +15,11 @@
     "DSTECHSOLUTIONS/application/views/admin/vistas",
     "DSTECHSOLUTIONS/application/views/errors/cli",
     "DSTECHSOLUTIONS/application/views/errors/html",
-    "DSTECHSOLUTIONS/application/views/errors/html",
     "DSTECHSOLUTIONS/application/views/factura/font",
     "DSTECHSOLUTIONS/application/views/factura",
     "DSTECHSOLUTIONS/application/views/login",
     "DSTECHSOLUTIONS/application/views/user",
     "DSTECHSOLUTIONS/application/views/user/factura/font",
     "DSTECHSOLUTIONS/application/views/user/factura",
-    "DSTECHSOLUTIONS/application/views/user/vistas",
+    "DSTECHSOLUTIONS/application/views/user/vistas"
   ]
