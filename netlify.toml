@@ -1,0 +1,26 @@
+[dev]
+  command = "php -S localhost:8888 -t DSTECHSOLUTIONS"
+  targetPort = 8888
+  publish = [
+    "DSTECHSOLUTIONS",
+    "DSTECHSOLUTIONS/application/config",
+    "DSTECHSOLUTIONS/application/controllers",
+    "DSTECHSOLUTIONS/application/libraries",
+    "DSTECHSOLUTIONS/application/libraries/font",
+    "DSTECHSOLUTIONS/application/libraries/fpdf185/tutorial",
+    "DSTECHSOLUTIONS/application/libraries/makefont",
+    "DSTECHSOLUTIONS/application/models",
+    "DSTECHSOLUTIONS/application/views",
+    "DSTECHSOLUTIONS/application/views/admin",
+    "DSTECHSOLUTIONS/application/views/admin/vistas",
+    "DSTECHSOLUTIONS/application/views/errors/cli",
+    "DSTECHSOLUTIONS/application/views/errors/html",
+    "DSTECHSOLUTIONS/application/views/errors/html",
+    "DSTECHSOLUTIONS/application/views/factura/font",
+    "DSTECHSOLUTIONS/application/views/factura",
+    "DSTECHSOLUTIONS/application/views/login",
+    "DSTECHSOLUTIONS/application/views/user",
+    "DSTECHSOLUTIONS/application/views/user/factura/font",
+    "DSTECHSOLUTIONS/application/views/user/factura",
+    "DSTECHSOLUTIONS/application/views/user/vistas",
+  ]
