@@ -52,7 +52,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 //pagina principal
 $route['tech']='pagina/tech';
-$route['default_controller'] = 'tech'; // Esto debería dirigir a la función tech en el controlador tech
+$route['default_controller'] = 'pagina/tech'; // Esto debería dirigir a la función tech en el controlador tech
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
